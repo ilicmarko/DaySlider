@@ -50,7 +50,7 @@ class DateSlider {
 
     this.title = document.createElement('div');
     this.title.classList.add(this.classes.TITLE);
-    this.title.innerHTML = this.config.language[this.now.getMonth()] + ' - ' + this.now.getFullYear();
+    this.title.innerHTML = this.config.language[this.now.getMonth()];
 
     this.element.appendChild(this.title);
   }

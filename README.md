@@ -34,3 +34,12 @@ var options = {
 }
 
 ```
+
+## To Do
+
+- [ ] Touch and Drag support.
+- [ ] Click to move on date.
+- [ ] Year support (move to next year).
+- [ ] Days of the week names (multi language support).
+- [ ] Today button (return to current date).
+- [ ] Add calendar support.
